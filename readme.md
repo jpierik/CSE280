@@ -19,7 +19,8 @@ branch because I will not accept a pull request to the master branch.
 
 6. Always create a new branch when you want to start a new task for the project.
 After you have written some code, go into the github desktop app and commit your changes
-with a details comment and maybe even a summary.
+with a details comment and maybe even a summary. When naming your branch, make it short
+but make it meaningful to what you are doing. 
 
 7. Commit changes often. Don't wait until you have written a lot of code to make a
 commit to the branch you created. It is much easier to fix code that has a good commit
@@ -34,7 +35,7 @@ hit the sync button. Then, go to the top right of the github application and cre
 a new pull request. It should automatically select the right branch to merge into
 my repository. I will always accept your pull request as long as you DON'T WORK FROM
 THE MASTER BRANCH. We can all review code before we merge a branch into master.
-The master branch is for production code only. 
+The master branch is for production code only.
 
 10. Finally, think of something else to add to the program, create a new branch,
 and start over again.
