@@ -14,4 +14,27 @@ GitHub's desktop application to make things much easier.
 4. Open GitHub Desktop, sign in, and click the "+" on the top left. Select "Clone"
 and then select the CSE280 repository you forked from me.
 
-5.
+5. Notice the button that says "master" at the top. Never make any changes to this
+branch because I will not accept a pull request to the master branch.
+
+6. Always create a new branch when you want to start a new task for the project.
+After you have written some code, go into the github desktop app and commit your changes
+with a details comment and maybe even a summary.
+
+7. Commit changes often. Don't wait until you have written a lot of code to make a
+commit to the branch you created. It is much easier to fix code that has a good commit
+history.
+
+8. Hit the sync button often, especially before you begin working so you can get
+updated code. I will always let everyone know when I have merged something into the master
+branch, just as a reminder.
+
+9. When you are finished writing code to the branch you created, then make sure you
+hit the sync button. Then, go to the top right of the github application and create
+a new pull request. It should automatically select the right branch to merge into
+my repository. I will always accept your pull request as long as you DON'T WORK FROM
+THE MASTER BRANCH. We can all review code before we merge a branch into master.
+The master branch is for production code only. 
+
+10. Finally, think of something else to add to the program, create a new branch,
+and start over again.
