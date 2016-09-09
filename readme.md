@@ -44,8 +44,8 @@ and start over again.
 
 Lets test this out by making a branch with your name written in camel case.
 For example, (using the directions above) I will create a new branch titled
-`MichaelFrieze`. Once you have done that, make a file called readme.md and put
-whatever you want in there. Just remember this is public. Then, just continue to
+`MichaelFrieze`. Once you have done that, edit the readme.md file (erase whats in there)
+and put whatever you want in there. Just remember this is public. Then, just continue to
 follow the steps above and I will know that everyone is using github correctly.
 Make sure to submit a pull request when you are finished.
 
