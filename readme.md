@@ -20,7 +20,7 @@ branch because I will not accept a pull request to the master branch.
 6. Always create a new branch when you want to start a new task for the project.
 After you have written some code, go into the github desktop app and commit your changes
 with a details comment and maybe even a summary. When naming your branch, make it short
-but make it meaningful to what you are doing. 
+but make it meaningful to what you are doing.
 
 7. Commit changes often. Don't wait until you have written a lot of code to make a
 commit to the branch you created. It is much easier to fix code that has a good commit
@@ -39,3 +39,17 @@ The master branch is for production code only.
 
 10. Finally, think of something else to add to the program, create a new branch,
 and start over again.
+
+### To Make Sure We Are All On The Same page
+
+Lets test this out by making a branch with your name written in camel case.
+For example, (using the directions above) I will create a new branch titled
+`MichaelFrieze`. Once you have done that, make a file called readme.md and put
+whatever you want in there. Just remember this is public. Then, just continue to
+follow the steps above and I will know that everyone is using github correctly.
+Make sure to submit a pull request when you are finished.
+
+Hopefully, my instructions are clear enough. If you need any help just ask.
+
+Thanks,
+Michael Frieze
